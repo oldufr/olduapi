@@ -1,0 +1,149 @@
+-------- BEGIN TRANSMISSION --------
+
+
+#! Oldu API 1.4
+#! REQ "FRQ-SW"
+
+
+oa@core:/oldu-api/# FRQ-SW
+
+
+English shortwave broadcasts to Europe sorted by time 
+
+
+> Relay site codes
+
+ae-United Arab Emirates, al-Albania, ar-Armenia,
+as-Ascension, au-Austria, bt-Botswana, bu-Bulgaria, ch-China, cu-Cuba,
+cy-Cyprus, fr-France, ge-Germany, gr-Greenville USA, ka-Kazakhstan,
+ko-South Korea, ku-Kuwait, ma-Madagascar, ml-Mali, mo-Moldova,
+nm-North Mariana Islands, om-Oman, pa-Palau, ph-Philippines, ro-Romania,
+ru-Russia, rw-Rwanda, sa-Sao Tome e Principe, se-Seychelles, si-Singapore,
+sl-Sri Lanka, sp-Spain, ta-Taiwan,th-Thailand, tj-Tajikistan,
+uk-United Kingdom, uz-Uzbekistan, va-Santa Maria Vatican, wb-WWRB USA,
+wc-WWCR USA, wh-WHRI USA, wi-WINB USA, wq-WBCQ USA, wr-WRMI USA, wt-WTWW USA.
+za-South Africa
+
+> Days of week
+
+Su-Sunday, M-Monday, Tu-Tuesday, W-Wednesday,
+Th-Thursday, F-Friday, Sa-Saturday, exW-except Wednesday
+Target areas: Af-Africa, Am-America, As-Asia, Eu-Europe, LA-Latin America,
+ME-Middle East, NA-North America, Oc-Oceania/Australia; Other: alt-alternate
+frequency, drm-Digital Radio Mondiale, occ-occasional use, le-Learning English
+G24-Global 24 Radio
+
+> Credits and updates
+
+Credits to Daniel Sampson from the Prime Time Shortwave website.
+Last updated by Ernest Riley on February 12, 2016. Version B15v04.
+
+
+UTC Time  Notes      Country         Station            Frequencies
+0000-0100 Eu         China           China R. Int'l     7350
+0000-0100 NA,Eu, M   U. S. A.        Overcomer Ministry 5920wh
+0000-0300 NA,Eu      U. S. A.        WTWW               9475
+0000-2100 Eu,ME      U. S. A.        Overcomer Ministry 15770wr
+0100-0200 Eu         China           China R. Int'l     7350, 9675
+0100-0200 As,ME,Eu   Tajikistan      V. of Tajik        7245
+0100-2300 Eu         U. S. A.        Overcomer Ministry 11580wr
+0200-0300 Eu         U. S. A.        WRMI               11580
+0300-0330 Eu, Su     U. S. A.        WHRI               7520
+0300-1500 NA,Eu,Af   U. S. A.        WTWW               5830
+0400-0455 NA, Eu     Turkey          V. of Turkey       9655
+0445-0500 Eu,Sa      U. S. A.        Eternal Good News  11635wh
+0445-0500 Eu, Sa     U. S. A.        WHRI               11635
+0500-0530 Eu         Japan           R. Japan           13640ae
+0500-0600 Eu         U. S. A.        WHRI               11635
+0530-0600 Eu         Thailand        R. Thailand        17640
+0600-0700 Eu         United Kingdom  BBC                3955 drm
+0630-0700 Eu         Romania         R. Romania Int'l   7345, 9600 drm
+0700-0730 Eu, Sa     Canada          Bible Voice        7220ge
+0700-0730 Eu, Su     Canada          Bible Voice        7220ge
+0700-0800 Eu         U. S. A.        Overcomer Ministry 7355wh
+0700-0900 Eu         China           China R. Int'l     11785al, 17490
+0900-1000 Eu         China           China R. Int'l     17490, 17570, 17650
+0900-1000 Eu, Sa     Italy           IRRS               9510bu
+0900-1600 Eu, Su     Netherlands     Mighty KBC Radio   6095ge
+1000-1100 Eu         China           China R. Int'l     17490
+1000-1300 Eu         U. S. A.        WWCR1              15795
+1030-1300 Eu, Su     Italy           IRRS               9510bu
+1100-1104 Eu         Pakistan        R. Pakistan        15730, 17730
+1100-1130 Eu, Sa     South Korea     KBS World R.       9760uk drm
+1100-1130 Eu, F      Japan           R. Japan           9760uk drm
+1100-1300 Eu         China           China R. Int'l     13665al, 17490
+1200-1300 Eu         China           China R. Int'l     13790
+1200-1300 Eu         Romania         R. Romania Int'l   13580, 15460
+1300-1330 Eu         Slovakia        R. Slovakia        9560ge
+1300-1400 Eu         China           China R. Int'l     13670, 13790
+1300-1400 As,ME,Eu   Tajikistan      V. of Tajik        7245
+1300-2100 Eu         U. S. A.        WWCR1              15825
+1330-1425 Eu         Turkey          V. of Turkey       12035
+1330-1427 Eu         North Korea     V. of Korea        7570, 12015
+1400-1500 Eu         China           China R. Int'l     9795, 13710
+1400-1500 Eu         Oman            R. Sultanate Oman  15140
+1400-1600 Eu, Sa-Su  U. S. A.        Overcomer Ministry 13810fr
+1400-1600 Eu, M-F    U. S. A.        Overcomer Ministry 13810ge
+1500-1600 Eu         China           China R. Int'l     9435, 9525
+1500-2400 NA,Eu      U. S. A.        WTWW               9475
+1530-1600 Eu         Slovakia        R. Slovakia        7310ge
+1530-1627 Eu         North Korea     V. of Korea        7570, 12015
+1600-1630 Eu, Af, As Vietnam         V. of Vietnam      7220, 7280, 9550, 9730
+1600-1700 Eu         China           China R. Int'l     7255, 9435, 9875
+1600-1700 Eu         South Korea     KBS World R.       9515
+1600-1900 ME,Eu      U. S. A.        WEWN               15610
+1700-1800 Eu         China           China R. Int'l     6100, 7255
+1745-1900 Eu         Bangladesh      Bangladesh Betar   13580
+1745-1945 Eu         India           All India R.       7550 drm, 9950 drm, 11670
+1800-1830 Eu         Vietnam         V. of Vietnam      5955au
+1800-1900 Eu         China           China R. Int'l     6100, 7405
+1800-1900 Eu         South Korea     KBS World R.       7275
+1800-1900 Eu         Romania         R. Romania Int'l   6090, 7350 drm
+1800-1900 Eu,M-F     Argentina       RAE                9690, 15345
+1830-1927 Eu         North Korea     V. of Korea        7570, 12015
+1830-2000 Eu, Su     Canada          Bible Voice        6030ge
+1900-1930 Eu, As     Vietnam         V. of Vietnam      7280, 9730
+1900-2000 Eu, F-Su   Italy           IRRS               7290bu
+1900-2000 Eu         Thailand        R. Thailand        9390
+1900-2000 Eu         Indonesia       V. of Indonesia    9525
+1920-2020 Eu         Iran            VOIRI              6040, 7425
+1930-1945 Eu, Sa     U. S. A.        Eternal Good News  6030ge
+1930-2025 Eu         Turkey          V. of Turkey       6050
+2000-2020 Eu,Tu,W,F  Belarus         R. Belarus         11730, 11930
+2000-2100 Eu         China           China R. Int'l     5960al, 7285al, 7415, 9600
+2000-2100 Eu, Su     U. S. A.        WHRI               11705
+2020-2200 Eu         Belarus         R. Belarus         11730, 11930
+2030-2045 Eu         Thailand        R. Thailand        9390
+2030-2100 Eu         Vietnam         V. of Vietnam      7280, 9730
+2045-2230 Eu         India           All India R.       7550 drm, 9445, 9950 drm, 11670
+2100-2115 Eu, Su     U. S. A.        Eternal Good News  11705wh
+2100-2115 Eu, W      Cyprus          FG Radio           15770wr
+2100-2130 Eu         Slovakia        R. Slovakia        3985ge
+2100-2130 Eu, M-Sa   Albania         R. Tirana          7465
+2100-2200 Eu         China           China R. Int'l     5960al, 7285al, 7415, 9600
+2100-2200 Eu, Su     U. S. A.        WHRI               11705
+2100-2200 Eu         U. S. A.        WRMI               15770
+2100-2200 Eu, Sa-Su  U. S. A.        WWCR1              15825
+2115-2245 Eu         Egypt           R. Cairo           9800
+2130-2200 Eu         Romania         R. Romania Int'l   6030 drm, 7375
+2130-2227 Eu         North Korea     V. of Korea        7570, 12015
+2145-2200 Eu, W      Cyprus          FG Radio           15770wr
+2200-2300 Eu         South Korea     KBS World R.       11810
+2200-2300 NA,Eu ,M-F U. S. A.        Overcomer Ministry 9505wh
+2200-2400 Eu         U. S. A.        Overcomer Ministry 15770wr
+2200-2400 Eu,ME      U. S. A.        Overcomer Ministry 15770wr
+2300-2315 Eu, Tu     Cyprus          FG Radio           5850wr, 5985wr, 11580wr
+2300-2315 Eu, Th     Cyprus          FG Radio           5850wr, 11580wr, 11920wr
+2300-2355 NA, Eu     Turkey          V. of Turkey       5960
+2300-2400 Eu         China           China R. Int'l     7350
+2300-2400 NA,Eu ,M-F U. S. A.        Overcomer Ministry 9505wh
+2300-2400 Eu         Romania         R. Romania Int'l   6015, 7220
+2300-2400 Eu         U. S. A.        WRMI               5850, 11580
+2330-2345 Eu, Sa     Ukraine         R. Ukraine Int'l   5850wr, 11580wr
+2330-2400 Eu, M-F    Ukraine         R. Ukraine Int'l   5850wr, 11580wr
+
+
+oa@core:/oldu-api/# _
+
+
+-------- END TRANSMISSION --------
