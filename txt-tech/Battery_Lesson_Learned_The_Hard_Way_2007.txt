@@ -1,0 +1,31 @@
+Sent: 12 Aug 07
+Subject: Battery lesson learned the hard way.
+
+From time to time measure the current flow with everything turned off for the 12 
+volt battery supply at your survival site.   Things can creep into use that draw 
+power even when turned off.   We recently found that a 12 volt TV will use about 
+1 watt (.08amp) all the time, even when off.  This is the sensor circuit that is 
+constantly listening to the wireless remote.  If you purchase any 12 Volt items 
+with infrared remotes it will draw current while turned off.  Avoid this.  
+Measuring the current flow with everything turned off once in a while will point 
+out the power wasters for you.  
+
+A simple low cost amp meter can be made from a $3 digital voltmeter item 90899 
+from http://www.harborfreight.com/ and alligator clips a given distance (see 
+below) apart clipped onto your existing 12 volt feed wire.  See: “How to Make 
+High Amperage DC Current Meter” sent in May 7, 07.
+ http://home1.gte.net/ob/Make_Your_Own_DC-Current_Shunt_Meter.pdf
+It shows that input wire with following sizes can be used
+AWG
+Gauge   Inches of wire with clip at each end measuring voltage
+ 2         76.7
+ 4         48.3
+ 6         30.3
+ 8         19.1
+10         12.0
+12          7.5
+The electricity passes through this feed wire to your site from the batteries. 
+Larger wires are noted in the report. 
+
+
+

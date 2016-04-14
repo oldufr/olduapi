@@ -1,0 +1,159 @@
+Subject: Re: Solar Ovens
+Definitely give it a try.  It's really fascinating.  
+
+The one I made was one of the really simple cardboard ones - just a 
+box nestled inside another box that was an inch or two bigger all the way 
+around, with crumpled newspaper filling the spaces between them.  I glued 
+foil to the inside of the inner box, and to the inside of the flap lid of 
+the outer box.  I used a piece of coat hanger as a lid support, slapped 
+onto the side with a piece of duct tape.  I rested an old window pane on 
+top for the glass.  Inside, I placed one of those matte black round 
+stovepipe caps (used for closing off the end of a stovepipe as the 
+black-body absorber.  I was getting temps in there hot enough to boil 
+water in a pint Mason jar.  I put an oven thermometer in there, and the 
+highest temp. I witnessed was about 230F.  The whole process, from saying 
+"gee, I wonder how well this works" through building it to boiling water 
+was about two hours.  I used it to reheat leftovers for the rest of the 
+week.
+
+Since then, I've been planning on building a better, more permanent one, 
+with a removable, enameled blackbody (a turkey roaster pan would be 
+great, but a similar pan in rectangular shape would be even better) and a 
+tempered glass top.  I'd also splurge and make a metal reflector patterned 
+after the SunStar.  Also, fiberglass insulation would bring it up to baking 
+temps.  You can buy ready-made sun ovens that can easily bake several 
+loaves of bread at a time, but they cost $180-400 (or more), and besides, 
+part of the fun is seeing if you can scrounge up all the parts for free :)
+
+
+Cheers,
+Andy Evans       Homestead Mailing List Administrator
+- -----------------------------------------------------
+White Sulphur Springs, WV USA       E:3 G:3 N:2.5 L:1
+- -----------------------------------------------------
+   Check Out The Homestead Mailing List Home Page:
+       http://www.cais.com/aevans/homestead/
+  * List FAQ * Bibliographies * Interesting Links *
+- -----------------------------------------------------
+
+
+
+From: "Couvia, Susan" <SCouvia@tchmail02.tchden.org>
+Date: Wed, 14 Aug 96 12:59:00 PDT
+Subject: Re: Solar Ovens
+
+>They all look like relatively simple weekend
+>projects, but I imagine the performance varies widely between designs.   
+ I
+>thought the Nelpa design looked very useful, but perhaps one of the   
+panel
+>cookers would be a better first project.  I was wondering if you had a
+>recommendation for a favorite design?
+
+(Yea, I know, you asked Andy, but I thought I'd jump in and answer   
+anyway!)
+I built the Reflective Open Box cooker about a month ago, and finally   
+tried it out last weekend. It works well for me - I was out camping, and   
+my usual method of cooking while camping is while hiking I also forage   
+for wild foods. With the solar cooker, I just went off on mini-hikes, and   
+whenever I came back to camp I put whatever I found into the cooker, and   
+ended up with a nice stew. It took about 5 - 6 hours of cooking time, and   
+occasional adjustments to follow the sun.
+
+The cooker only took about 3 hours to put together, and it is completely   
+collapsible, and light weight. One reason I chose the open box design is   
+that you don't have to have a piece of glass as you do with the closed   
+oven types. The only materials are a cardboard box, foil, and glue.
+
+
+
+
+Susan
+city house in Denver
+70 acres near the Wyoming/Colorado border  
+
+------------------------------
+
+From: Andrew Evans <aevans@cais.cais.com>
+Date: Wed, 14 Aug 1996 15:16:16 -0900 (PDT)
+Subject: Getting into solar the easy way
+
+Hi folks -
+
+The UPS man showed up this afternoon with my new toy - a Ryobi cordless 
+24v lawn mower, and a kit from Real Goods that converts it to solar.  The 
+kit is just a pair of small self-regulating solar panels and a few wires 
+and connectors that allow it to hook up to the mower.
+
+We were talking earlier about rigs for experimenting with solar - well, 
+this is a really good one.  Though I also have a bunch of heavy-duty 
+photovoltaic gear for the house, this is a great, inexpensive way to try 
+out solar power and put it to a practical use at the same time.  You can 
+buy the mower locally from your nearest big hardware store (it's a 
+commonly-available model - Ryobi BMM-2400, and I think some other 
+manufacturers sell it under their own names (Black and Decker?)), or 
+order it from Real Goods (probably more expensive).  The solar kit is 
+sold separately anyway, and it goes for $199.  The mower is itself a 
+highly-regarded, well-built tool, and the addition of solar makes it even 
+better.  It will run for about 1 - 1.5 hours on a full charge, and with 
+the solar rig, is fully recharged in about 3 sunny days.  I've already 
+taken it for a spin (it came from the factory fully charged) and it cuts 
+beautifully, and is incredibly quiet (it is almost as quiet as the 
+hand-push reel mower!).
+
+Installing the kit is simple, but it makes you open the mower and connect 
+wires to its guts.  This is a *good* thing though, because you get to see 
+how it all fits together - it's a small-scale version of what any 
+solar-power system is - battery, load, panels, charger/regulator (in the 
+panels), and battery metering (built into the mower).  After monkeying 
+with much larger systems, this really struck me as a simple, complete 
+teaching example of a working solar power system.
+
+When we moved into our rental place here, the one thing we didn't like so 
+much (and wouldn't have on our "real" place, without a goat or to to 
+help) was the huge expanse of grass there was to mow.  We were used to 
+our little suburban plot, which could easily be handled by our 
+human-powered reel mower.  We tried valiantly with the reel mower, 
+until we realized it was going to take a week to get through the whole 
+thing, at which time we'd be starting over :(  The thought of having to 
+buy a gas-guzzler didn't sit well with us, so we opted for this solar 
+solution.  The advantages -
+
+* Never need to buy gas for the mower (or pay the power company)
+* Quiet operation
+* Cuts faster, wider, and jams less than the reel mower (cuts like any 
+  other "conventional" mower)
+* Teaches you all the basics of living with a photovoltaic system that 
+  does something practical
+
+
+The things you do here that are just smaller-scale versions of what you'd 
+do on a whole-house system -
+
+* wiring together solar panels using their built-in junction boxes
+* connecting a solar charger to a lead-acid battery bank
+* gauging battery charge and power use
+* mounting solar panels - I used 2' lengths of pre-drilled, galvanized 
+  angle-iron from the local hardware store ("project iron", some people 
+  call it) and #10 galvanized hex-head bolts and matching nuts.  The bolt 
+  heads slide into grooves on the back of the panels.
+* orienting mounted panels to receive optimum sun
+* being amazed that it all just works, and you don't have to do much of 
+  anything :)
+
+
+(ObDisclaimer - I don't work for Real Goods, Ryobi, etc.  Or, I should 
+add, for the people who make project iron, though I probably should, 
+because that stuff's *expensive* and I use it for everything :)  )
+
+Cheers,
+Andy Evans       Homestead Mailing List Administrator
+- -----------------------------------------------------
+White Sulphur Springs, WV USA       E:3 G:3 N:2.5 L:1
+- -----------------------------------------------------
+   Check Out The Homestead Mailing List Home Page:
+       http://www.cais.com/aevans/homestead/
+  * List FAQ * Bibliographies * Interesting Links *
+- -----------------------------------------------------
+
+

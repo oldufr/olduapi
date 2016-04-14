@@ -1,0 +1,54 @@
+
+ ------------------- 
+Subject: Used UPS a substitute for a new Inverter
+Sent: 10 Oct 99
+
+We have talked a lot about needing an inverter to take DC and convert it to 110 
+volts 60 cycle AC.  We haven't mentioned much about UPS (Uninterruptable Power 
+Source).  In simple terms a UPS is a very fancy inverter that produces clean 
+sine waves with in 3% to 5% total harmonic distortion (THD) at uniform volts and 
+frequency.  Most Inverters usually produce modified sine waves (MSW) which 
+produce lots of harmonics 30% to 45% THD. Some items we will run can have 
+trouble with this. MSW can cause buzzing noises in audio and radio electronics. 
+Most laser printers will not run on MSW. Motors run hotter, less efficiently and 
+some are harder starting on MSW.  
+
+The UPS technology is used a lot today with critical computers file servers, 
+mainframes etc.  The cooperate world tends to write computing equipment off the 
+books every 3 to 5 years.  These are then sold at junk prices and show up in 
+surplus electronics scrap yards.  These units cost plenty when new but when you 
+buy them 3-5 years old they sell for very, very much less. 
+
+To give you an idea of what you can find if you look.  I bought a 1450 watt 
+American Power Conversion (APC) Smart-UPS model AP2000 with batteries (48 Volt) 
+for $30 unknown condition.  The Silicon Salvage place I bought it from didn't 
+know if it worked or not they hadn't plugged it in.  The thing worked fine in 
+fact it looks practically new and acts like it.  
+
+The point is keep your eyes open for used UPSes as they get surplused out of the 
+computer industry.  Even if you have to spend more than I did to make sure you 
+have a working unit.  It still will be a fraction of the original price and 
+often priced below the price of a new MSW inverter for the same power. 
+
+A UPS is designed to take variable amounts of input voltage (within a limit) and 
+variable frequency and charge a bank of batteries, then it runs the load off the 
+batteries, producing clean power in a continuous fashion.  If the source power 
+gets out of range or cuts off, it then switches to run off batteries totally 
+until the source power comes back within range or the batteries get too low.
+
+For our use it doesn't care how the batteries get charged.  If a windmill or 
+hydo-power is changing the batteries directly, then the UPS will be happy to 
+convert DC to 115 Volts 60 cycle AC as long as the battery voltage doesn't fall 
+too low.  If this happens it will start beeping and finally turn off.  Through a 
+serial cable the unit will also do a shut down on your PC before it runs out of 
+battery. This is a complexity I don't plan on using.  I do plan to add many more 
+batteries in parallel.   
+
+I think a MSW inverter or two would be good to have as backup.  Keep your eyes 
+open for used UPSes.
+
+
+--------------- 
+Some UPS's take 120 volts AC to get them going and some do not. This can be 
+fooled if one wants to poke around on the internal board but it is simpler to 
+supply Some AC from a generator or other source for long enough to get it going. 

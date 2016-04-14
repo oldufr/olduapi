@@ -1,0 +1,135 @@
+
+Look into:
+dc treadmill motors
+Runner for alternator
+Hydro-power alternator runner
+Permanent magnet alternator
+Permanent magnet motor low speed
+Pm-1000
+PMG alternators
+Francis Impulse Turbine
+
+A number of alternator builders/rebuilders are offering PM conversions or new 
+PMG alternators especially for marine applications. I think a lot of the new 42 
+volt auto alternators will also be PM for improved efficiency. I am not sure 
+what will be required to regulate the output, but there should be some kind of 
+internal regulation available. Some inexpensive PWM electronics could regulate 
+voltage over a wide range of RPMs. The vehicle's computer could regulate it, 
+tho.......
+
+
+Homebrew Hydro Electric
+http://www.otherpower.com/scotthydro1.html
+effecentcy of water power methods
+http://www.i4at.org/countrylife/waterpower.html
+
+harris turben water flow Data good
+http://www.bitterrootsolar.com/hydro/harris.htm
+
+Water Baby micro hydro
+http://www.rpc.com.au/reindex.html?http://www.rpc.com.au/products/hydropower/wat
+erbaby/waterbaby.html
+
+
+pm alternators 
+http://www.hydrogenappliances.com/powerpmas.html
+http://www.hydrogenappliances.com/pmacurves.html
+
+Regulator for Permanant Magnet Alternators
+http://www.otherpower.com/pmgreg.html
+
+Permanent Magnet Brushless 3 Phase Alternators
+http://www.windstreampower.com/generators/PMA.html
+http://www.windstreampower.com/generators/Torque.html
+At 500 watts and 1800 rpm tourk is 2 lb-ft or 12 lbs on 4? runner. 
+
+Motor dimensions calculator -- Bowman Magnet Motor Open Sourcing Project
+http://www.pureenergysystems.com/os/MagneticMotors/BMM/plans/specs/dimension_cal
+culator/index.html
+if you want to buy one, please check here: 
+http://www.windmission.dk/PMG/pmgforeveryone.html 
+If you want make one from scratch,
+please see 
+http://www.otherpower.com 
+'volvo' generator. 
+We made one quite similar here, it wasn't very 
+difficult, after we got the right materials. 
+If you want to rewind a car alternator, 
+please see:
+http://www.mtmscientific.com/rewind.html 
+The job itself isn't very difficult. 
+You only need to rewind the stator coils with
+thinner copper wires. The same way as they were, but more turns. 
+If you want to try a conversion of 
+a car alternator into pmg, please see: 
+http://www.windstuffnow.com 
+- Hannu
+
+Magnets
+http://www.magnetsrc.com/
+
+windmills and more very good. 
+http://www.hydrogenappliances.com/
+
+Watts expected from a water flow. 
+http://www.greenhouse.gov.au/yourhome/technical/fs49.htm
+
+micro-hydro pelton wheel
+Harris unite
+http://www.scsolar.com/microhydro.html
+
+better prices
+http://www.backwoodssolar.com/Catalogpages2/hydropower2.htm
+
+Harris Hydro pelton with Motocraft 80 amp alternator - 1 nozzle
+http://www.dunsolar.com/MicroHydro.asp?InfoType=MHP    not done
+
+
+where to order pelton wheels and a good practical write up for designing.
+
+http://www.suntrekenergy.com/hydro.htm
+plastic $195 ES&D Plastic pelton runner
+http://www.energyalts.com/catalogue/Items/ESD4P-B.htm
+ES&D Turgo Runner ? Bronze  $526.68
+http://www.perfectpowernetwork.com/Product/877/T1,0008,0024/ESD-Turgo-Runner--
+Bronze.htm
+
+Harris Bronze Pelton Wheel $275.00
+ESD Pelton Wheel $113.00
+ESD Turgo Wheel$737.00
+http://www.tophatenergy.com/price_products_list.htm
+
+links to hydro 
+http://www.timsbrain.com/Environmentalism/Renewable_Energy/MicroHydro/Online_Sto
+res/     not done
+
+good for home built knowlage.3 phase AC induction motors
+www.renewablepower.com/files/homepower.pdf
+
+
+Micro hydropower basics
+
+http://www.microhydropower.net/turbines.html  not done yet
+
+
+
+Turgo runners & components for DIY micro-hydro 
+http://h-hydro.com turgo_gen 
+Nautilus Low Head Turbines 
+This site describes the turbines built by Nautilus Water Turbine Inc 
+http://www.waterturbine.com microhydro@... 
+Rainbow Power Company Ltd 
+Australian Renewable Energy supplier- has large FAQ, BBS & Newsletter 
+http://www.rpc.com.au davel70 
+Wasserkraft-Forum 
+A little forum in german for all kinds of informations, commercial and technical 
+- ein kleines Forum auf deutsch fÅr alle Art von Informationen, Kauf/Verkauf und 
+technisch 
+http://wasserkraft-forum.de.tf magnus_bon 
+micro hydro pages of Upali 
+I have long been interested in Micro-Hydro power. I found this egroup.com/micro 
+hydropower group. In future I hope to start a micro hydropower project. So I 
+think this will be very useful for me and others to share our 
+knowledge/information. 
+http://start.at/microhydro  
+

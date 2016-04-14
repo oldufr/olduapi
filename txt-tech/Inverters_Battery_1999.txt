@@ -1,0 +1,67 @@
+>
+> Dear Ken:
+>      I had no idea how complex the gererator problem is.  I think the
+> Poor man's system is a stroke of genius.
+
+Thank you.  I've been a survivalist (areas of specialization are nuclear
+war, earthquakes, food storage, and water) for about 15 years, so I've
+had lots of time to think about these things.
+
+>      The batteries would be the "deep cycle" type such as used in RVs
+> and Trolling motors?
+
+Not familiar with RV, but trolling motors should be the deep cycle type
+I would assume.
+
+>       How many could I hook up in series to be charged?  Not get hot or
+> burn out?
+
+Okay, most common inverters are 12VDC input 120VAC (sort of) output.
+You can put 2 6V batteries in series(attach the + of bat. A to the - of
+bat. B) to get 12 V.
+To increase amperage you can take 2 12V bats. in parellel (connect the +
+of A to the + of B and the _ of A to the - of B)  Please note that you
+can take two sets of 4 6V bats. that have been made into 2 12V systems
+and parallel them.
+As for the K.I.S.S., one big 12 V bat. is easier to work with than
+multiple small bats.
+
+BIG POINT! You can purchase batteries "dry". Two methods - Dry battery
+with battery acid in bottle, or dry chemicals in battery add distilled
+water to activate.  Lead acid batteries have a shelf life just like
+flashlight batteries.  P.S. AAA, AA, C and D cells can be recharged by
+one of those fancy  Buddy-L or better unit the EccoMultiCharger by
+Saitek (which runs nicely on 6VDC at 500ma, get a zener diode to drop
+the 12VDC to 6VDC)
+
+>       Would a better inverter allow me more efficient AC power?  
+
+I have not researched these recently but generally speaking the 
+higher quality inverter draw a smaller percentage of power at idle
+ than the cheapos.  I would just manually turn the inverter off when
+ not needed.
+
+>        I suppose a simple battery tester would let me know when the
+> batts are fully charged?
+
+If you have a battery where you can get in there and measure the
+temperature and the density of the battery fluid with a hygrometer
+(sp?), yes.  It might not need charging every day, but you SURE wouldn't
+want the battery to go so low it can't start the car!!!  Having the car
+on a big hill with manual transmission would be the only way out of that
+problem, or a solar panel.  A small solar cell would make this system
+better.  You could avoid the expense of an expensive solar charger
+controller by just carefully measuring the charge of the battery and
+doing a manual connect/disconnect on the solar cell.  BIG HINT!  A
+"dead" battery in winter that can only make the starter go grunt, grunt,
+can start the car if you bring it inside and slowly warm it up over
+several hours and then reinstall.  ALSO!!!! warm batteries accept a
+bigger charge easier and faster than cold batteries!!!  Storage
+batteries should be kept warm (not hot!!).
+
+>       You have been super helpful and generous with your time thanks.
+>                                         Bill
+
+Happy to be of service, I'll grab a survival manual I wrote for my kids'
+school and forward that to you.
+

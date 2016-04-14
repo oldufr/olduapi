@@ -1,0 +1,45 @@
+Subject: PM Servo Motor (9Tk Tape drive)
+Sent: 31 Jul 99
+
+I picked up at a ham swap, two low speed Servo Motors that controlled a tape 
+reel, used in an old 9 track 2400 ft reel to reel .5 inch wide computer tape 
+drive.  They say "permanent magnetic servo motor" and have two wires coming out 
+of each motor.  
+
+The way to check the efficiency and whether these things are still operational 
+is to electrically hook them together.  If one hooks the black wire on one unit 
+to the black on the other unit and the red to red.  Then, if one turns by hand 
+back and forth one shaft on one unit, the shaft on the other unit will rotate 
+and do the same motion at the same time.  What this is saying is the one unit 
+being turned by hand is generating enough current, as a generator, to turn the 
+other one as a DC motor.  One can then do this motion slower until slippage 
+occurs due to not being able to over come the friction of the barrings.  In this 
+way one can get a pertly good idea of the efficiency of these units as a slow 
+speed generator and motor.   These passed the test.
+
+The units are extremely sturdy built being 5.75" long and 4" in diameter and 
+have a .65" diameter shaft with ball barrings each end. They have 4 separate 
+brushes in each unit. They have a heavy duty flange with 4 holes for mounting. 
+They came with the hub that clamps onto a Reel to reel type tape still on the 
+shaft.  This is not the capstan motor this the one that drives the tape reels.  
+I plan to use the inside aluminum ring out of an old Tape Reel to clamp-mount it 
+on the hub. Then mount this hub-ring unit in contact with a exercise bicycle 
+wheel.  The result will charge one 12 Volt battery or possibly two in series. I 
+was told they were designed to be operated at 28 volts.  At this time I am not 
+sure how much power can be generated without causing a problem.  My cost was $15 
+for both.  This vendor didn't have any more available.  
+
+If these units were planned to be used outside in a small windmill then the 
+hosing and ball barrings would need to be made water proofed in some fashion. 
+
+Model: E722 
+The company that made them is:
+Electro-Craft
+Corporation
+1600 Second St. So. Hopkins, MN 55343.
+
+I think other Reel to reel tape drive hub servo motors independent of brand 
+should also work.  Just check them out as noted above before you purchase.
+
+
+

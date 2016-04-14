@@ -1,0 +1,62 @@
+Subject: Lightning Detectors
+Sent: 26 Mar 02
+
+The Zetas indicate there will be a lot of lighting after the PS.
+
+It would be desirable to determining how close lightning is to our current 
+location. If one has ham radio equipment, a lighting detector could give you the 
+time needed to safely disconnect and ground the antennas (disconnecting power 
+from the radios).   If out in the open on some hiking trip it could give you the 
+opportunity to head for the lower ground or get out of the open area or even lay 
+flat on the ground so as to not allow the body to become a lighting rod.   
+
+If after the PS you get caught without a lightning detector then use a small 
+battery operated AM radio.  Tune it to the lowest frequency on the dial.  
+Lightning radio propagation amplitudes are higher at very low frequencies.  
+Adjust the volume so that when a distinct noise crackle gets stronger you know 
+it is approaching.  Eventually with experience one could calibrate the volume 
+knob position with distance.  
+
+The following is listed some of the low cost possibilities with respect to 
+lightning detectors that can be purchased or constructed.  
+
+--------------- 
+NEW! StrikeAlert Personal Lightning Detector.  Finally, an affordable easy-to-
+use personal lightning detector that provides an early warning of approaching 
+lightning strikes from as far away as 40 miles. Perfect for all outdoor sporting 
+events, work and recreation, or for professionals needing early warning Only 
+$79.95!
+http://www.weathershop.com/Lightning.htm
+-------------- 
+ 
+Affordable lightning detector provides early warning of approaching lightning 
+strikes as far as 40 miles.  Low Power Consumption - Up to 100 hours of reliable 
+operation with a single AA battery. Our Price: $74.95
+http://www.andersengolf.com/strike1.htm
+------------- 
+
+HAND-HELD LIGHTNING DETECTOR
+t will pick up electrical activity as far as 40 miles away and track the storm 
+as it
+Approaches ... giving you plenty of time to clear the field, leave the 
+campground, or sail
+back to shore. Be warned of a storms approach by an audible tone and by 4 LED's
+ranged in miles, 0-3, 3-8, 8-20, 20-40. You can even select the range at which 
+you wish
+the alarm to sound.  Powered by two 9V batteries, not included, or optional AC 
+adapter, or 12V cigarette lighter.   420 Lightning Detector  Price: $195.00*
+http://www.scientificsales.com/conligh.htm
+---------- 
+
+Lightning Alert(r) LD-6500 Lightning Detector is only $ 140.00 + $
+  8.00 s/h. Built-in alarm and light.
+http://www.stormwise.com/index2.html
+---------- 
+
+Construct your own "Lightning Detector".  Here is a VLF receiver tuned to 300 
+kHz designed to detect the crackle of approaching lightning. A bright lamp 
+flashes in synchrony with the lightning bolts indicating the proximity and 
+intensity of the storm.
+http://www.techlib.com/electronics/lightning.html
+
+

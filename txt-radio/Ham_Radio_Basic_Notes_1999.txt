@@ -1,0 +1,30 @@
+Novice:
+
+power meters  Frequency    CW  RTTY DATA SSBphone
+200   80      3.675-3.725  X
+200   40      7.1-7.15     X
+200   15      21.1-21.2    X
+200   10      28.1-28.3    X   X    X
+200   10      28.3-28.5    X             X
+ 25    1.25   222.0-225.0  X   X    X    X
+  5     .23   1270-1295    X   X    X    X
+
+.5 wave dipole = 468/f (ft)
+.25 wave = 234/f (ft)
+wave length (meters) =300/f
+f = MHz
+
+CW - Send CQ(calling) 3 times DE (from), your call 3 times
+CW - Answer other call (signs) twice, DE, Your call twice.
+RST - Readability, strength, tone
+QRS - Slowly
+QTH - Location
+QSL - written acknowledgment postcard
+Voice - Send CQ 3 times, this is, your call 3 times
+Voice - Answer CQ other call twice, this is, your call twice
+QRL - CW to see if frequency in use send QRL?
+QSY - change frequency
+QSO - Conversation in progress
+QRZ - CW is some one calling me? send QRZ?
+voice use phonetics for your call sign
+RTTY - CQ 3-6 times, DE, your call 3 times 

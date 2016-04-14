@@ -1,0 +1,449 @@
+Florescent glow pigment at a high luminosity with long decay time 
+http://proglow.com/pigment.htm
+Attenuation Diagram
+http://proglow.com/diagram.htm
+
+If we had some plastic products with this pigment manufactured as part of it, we 
+will find some interesting uses after the PS.  It is a bit expensive to buy in 
+this raw form.  Florescent fishing lures and light switches, flash light cases, 
+and florescent tape could have many uses.  Painting the inside of a survival 
+quarters, dome would be one use.  Would need to use a water sealer, moisture 
+will degrade the florescent effect.  I think plastic products that are 
+florescent to be more practical.  You can buy at most toy stores animals, stars 
+and planets to put on your wall at night that glow.  From this plastic one can 
+make other things as they are needed.  Markers for places to find in the dark 
+would be the primary use.
+
+
+
+----------------------------- 
+Sent: 18 April 99
+Light Measurement Handbook,
+http://www.intl-light.com/handbook/index.html
+
+Light Sources
+http://www.intl-light.com/handbook/ch05.html
+Basic Principles
+http://www.intl-light.com/handbook/ch06.html
+Measurement Geometries
+http://www.intl-light.com/handbook/ch07.html
+----------------------- 
+Special Meters
+http://www.elexp.com/tst-spec.htm
+Model: LX - 101 --- $65.95
+http://www.elexp.com/tst_lx01.htm
+Model: LX-02  ----- $39.00
+http://www.elexp.com/tst_lx02.htm
+Light meters
+http://204.127.238.82/visiblelight.htm
+
+----------------------------- 
+
+LED Flashlight Bulbs source
+Sent: 18 April 99
+
+100,000 - Hour LED Flashlights, Electronic Strobes and Replacement Bulbs (flash 
+lights)
+http://www.americaworks.net/lighting/index.html
+
+----------------------------
+
+Safety Lights!
+http://www.shopthegroove.com/stgbrightideas.html
+
+Lights
+http://bikeusa.com/accessories/lights2.htm
+
+LED lighting is now available for indirect and direct lighting applications. The 
+can flash, strobe, change colors, and a host of other functions while consuming 
+very little power and they generate almost no heat compared to incandescent 
+lighting.
+http://wagnersign.com/leds.htm
+ ------------------- 
+Outdoor 
+WATTS Lumens  Hours   Cost/year
+2x120 3460    2000    105.12    Incondesent standard
+4x120 6960    2000    210.24    incondesent standard
+70    6300    24000   35.92     Sodum high pressure
+90    1280    2000              Philips Halogen flood
+100   4500    24000   51.68     Mercury
+125   6000    24000   67.45     Mercury
+175   7900    24000   89.79-73.58 Merurcy
+---
+13 60w equil 10000              Compact Fluorescent Quad Lite
+40    400     2466              Deluxe Extralife (130V)
+40    460     1500              Bonus Brand Standard
+40    490     1000              GE soft white
+40    495     1250              Philips soft white longerlife
+53    444    15000              Feit Electric Rough Service (130v rating, 120V 
+operation)
+60    600     5000              Feit Electric Rough Service (130V)
+60    840     1250              Philips soft white longerlife
+60    850     1000              Action Tungsram
+75    1210    750               Bonus Brand Standard
+100   1630    750               Feit Electric (120V)
+100   1750    750               Bonus Brand Standard
+150   2780    750               GE soft white
+200   3910    750               Ge Soft white
+ ------------------- 
+
+subject: Useful Light intensity
+Sent: 6 feb 99
+
+Roger wrote:
+> 
+> *** Troubled Times forum mailing list ***
+> Wow Mike, I didn't know there was going to be a quiz (lol).
+
+No quiz intended.  The data was given for those who do not have access to a 
+light meter, to indicate some of the factors to take into account in calculating 
+light intensity.  I realize with your physics background you are quite aware of 
+these factors. 
+
+>  I was
+> trying to understand how a 6 watt bulb could provide enough light for
+> plants within a square meter.  I don't think this is correct. Your
+> postulate below certainly accounts for this.  But do we need to do these
+> calculations, or has someone already done so, and if so, what is the
+> bare minimum wattage of light needed for the average plant within a
+> square meter?
+
+
+I didn't originally understand this as your purpose. But, now that I do - 
+Initially, I agree it doesn't sound like much light or that it is correct.  
+However, in looking more deeply into it I have found the following. 
+
+One candle = 12.5 Lumen = amount of energy (as light) a light source emits. 
+Light bulbs some times are rated in this way.  You can look on some bulb 
+packages and get watts and number of Lumen or amount of light it puts out. 
+
+Lux = is the rate of energy falling on a surface as a result of light hitting 
+it.  One can think of it as the amount of light hitting a given square area of a 
+surface. 
+
+I found the following Equivalents:
+
+One foot-candle (foot-candle)= One Lumen per SQ. Ft. = 10.76 Lumens per Sq. 
+Meter (or LUX) = .00176 Lumen per sq. Cm. (Phot)
+
+One Lumen (at 5,550 Angstroms) = .00147 Watts
+one Sq. Ft. = .0929 Sq. Meters
+
+Thus at 5,550 Angstroms of light: 
+on foot-candle = .00147 watts per Sq. Ft. = .0158 Watts per Sq. Meter
+Or, one Lux = .000136 Watts per sq. ft = .00147 watts per sq. meter
+or, one watt per Sq. meter = 680 Lux
+or, one watt per sq. ft.   = 7320 Lux
+
+Brightness Values: (electronics reference (Magnavox))
+light source                      Lux  Watts/ft2 Watts/m2
+Office fluorescent Lighting   300-500  .04-.07   .44-.73 
+Halogen lamp                      750  .102      1.10
+Sunlight, 1 hour before sunset   1000  .136      1.47
+Daylight, Cloudy sky             5000  .680      7.35
+Daylight, Clear sky            10,000  1.36      14.7
+Bright Sunlight              > 20,000  2.72      29.4
+
+Note that the above watts/sq. ft and watts/sq. meter is the amount of energy in 
+the light and not the amount of watts that it took to make the light.  Many 
+light bulbs are inefficient.  Typically only 10% of the energy goes to make 
+light in vacuum tungsten filament light or possibly up to 20% with halogen 
+bulbs.  Florescent are about 70-90% efficient. 
+
+I pulled the following quotes from link:
+http://www.litemanu.com/lightingqa.html
+
+"Under natural conditions, maximum rates of Photosynthesis are attained in 
+single leaves of many species at 25-35% of full sunlight intensity and in some 
+shade species at even lower intensities."
+
+If one now takes 25-35% of 14.7-29.4 watts/sq. meter one gets 3.7 to 10.3 
+watts/sq. meter or an average of 7 Watts/sq. meter.  Note that this is very 
+close to 6 watts/sq. meter.  Thus I believe Steve is correct. 
+
+Now lets start from scratch and calculate an estimate amount of light hitting 
+your plants.
+
+From "Handbook of Engineering Fundamentals" by Eshbach second edition.  
+Efficiency of light sources table 4 page 10-33.
+
+Light source             efficiency (lumens/watt)
+tungsten gas filled      20
+tungsten vacuum lamp     10
+Fluorescent: (includes ballast loss)
+ standard cool white     46.5
+ standard warm white     51.2
+ de luxe cool white      29.0
+ de luxe warm white      31.0
+ daylight                41.3
+
+Depending on the bulb used you could be putting out 29lumens/watt*40watts= 1160 
+lumens or 51.2*40= 2048 lumens of light. 
+
+We now will calculate the Lux using the formulas following table 1 in the 
+following link: 
+
+Environmental Effects of Roadway Lighting
+http://www.darksky.org/ida/info125.html
+
+Street lamps are designed to direct a high percentage of their light toward the 
+street (45%).  Let assume your lamps are less efficient say 30-40% of the light 
+generated falls with in the .39 area of useable space.  Lets assume we can keep 
+the bulbs clean and that aging is the only factor of say about (.8).
+
+Illuminance of 4 (40 watt florescent tubes) =
+(L*CU*LLF)/(S*W)=
+[4*(1160 to 2048 lumens)*(.3 to .4)*.8]/(.39 sq. meters)
+= 2855 Lux to 6721 Lux.  (Or an average of 4788 Lux)
+
+What should we expect to need? (7 watt)*(680 Lux/watt per Sq. meter) = 4760 Lux 
+would be the minimum from above. 
+Steve says: Tomatoes grow best at 4000 Lux, 18 hours a day.  If the hrs decrease 
+to 12 hrs that 22% decrease in time and now if we add 22% to 4000 Lux we get 
+4880 Lux.  Very close to the same result. 
+
+Bottom line: Depending on the bulb you are using and the actual efficiency of 
+light delivered to the useable area of .39 sq. meters you both are talking about 
+the same order of magnitude of light. 
+
+More information on definition of terms can be found at:
+FAQ: Lighting and Illumination
+http://www.ie.psu.edu/courses/ie408W/lectures/lightingfaq.html
+
+Feel better now? I know I do it took quite a while to get this subject straight 
+in my mind.  This is one subject we may need at least one person proficient at 
+understanding the calculations in each community after the PS.  So as to not 
+waste energy. 
+
+
+
+-------------- 
+
+Subject: Light efficiency of metal halide bulbs
+
+While we are at it we might as well determine how the following recommendation 
+was arrived at for metal halide 1000 watt lights. 
+
+http://www.litemanu.com/lightingqa.html
+"Q: How much Light do I need?" (was for growing plants)
+
+"A: 20-40 watts per sq. ft. is a general guideline. The more efficient the Light 
+source, the less watts per sq. ft. needed. For example using 1-1000 watt metal 
+halide light, in a 50 sq. ft. area would give you 20 watts per sq. ft. and a 
+total of 120,000 lumens."
+
+Solving the equation given in the following link for "CU" or the coefficient of 
+utilization of light: 
+See Environmental Effects of Roadway Lighting
+http://www.darksky.org/ida/info125.html
+
+We get:
+Cu = (E*S*W)/(L*LLF) =
+(4760Lux*50sq.ft.*.0929sq.meter/sq.ft)/(120,000lumens*.8)=
+.23 or 23% efficient.
+
+In other words we need at least 23% efficient reflector to direct the light to 
+this 50 sq. ft. area to get our minimum 4760 Lux amount of light to grow plants 
+for 12 hrs/day. 
+
+Now what about the electrical efficiency of the 1000 watts converted to 120,000 
+lumens. 
+
+Recall that: One Lumen (at 5,550 Angstroms) = .00147 Watts.
+
+Actual light energy in wattage = 120,000lumen*.00147watts/lumen= 176 watt of 
+light from a 1000 watts consumed. The difference is emitted as heat.
+
+Thus the electrical Light efficiency = 176watt/1000watt =.176
+or 17.6% efficiency. 
+
+Summary: This setup converts 17.6% of it's energy to light of which 23% will 
+need to fall with in the 50 Sq. ft. to make plants grow. 
+
+--------------------- 
+
+Subject: Light or Lux meters
+
+Looks like to minimize calculations and guessing and to maximize reflected light 
+to our plants, one will need a light intensity (Lux or foot-candle) meter of one 
+type or another.  We will ultimately need a table of minimum to optimum Lux for 
+a given hours per day for each class of plants we intend to grow.  To balance 
+the red and blue intensity, some of us will need to measure to an extent color, 
+chromaticity, or Kelvin temperature. 
+
+The following is a review on one type of Lux Meter product. 
+
+http://www.animalnetwork.com/fish/aqfm/1998/june/product/
+An Inexpensive Light Meter and Its Application to Reefkeeping
+
+Where to buy a Lux meter?  The following is some of the alternatives.
+
+http://www.omnicontrols.com/lists/n_extech84.html
+Extech  Model 401025           $119
+
+http://www.bhphotovideo.com/photo/meters/sekonic/lux.html
+SEKONIC L-246LX                $149
+
+http://www.central-camera.com/SEKONIC.HTM
+Sekonic L-158                  $59
+
+http://www.cameratradersltd.com/usedmeters.htm
+Used Light Meters              $69 and up
+
+http://northcoastmarines.com/lightmtr.htm
+ACQUAMARINE LIGHT METER        $45
+
+I know that a light intensity or Lux meter can be built out of a simple solar 
+cell and a digital current meter for less than $20. The question is if one did 
+this without a reference meter as a standard, how does one calibrate it?  All I 
+can think of right now is a candle one foot away for the low end and the sun for 
+the high end.  Aside from there being no sun after PS, both are not a good 
+stable, non-variable source.  Building a color or Kelvin meter is another story.  
+Possibly using the same Lux meter with some color filters would serve our 
+purpose.   Any ideas?
+
+Roger, did you find a more cost effective product (light meter)?
+
+
+--------------- 
+
+> > Did you take in to account the wasted light that escapes hitting the
+> > plants?
+> >
+> > One way to estimate how much light your plants are actually getting:  4
+> > ft florescent tubes radiate light cylindrically mostly. Thus if one
+> > determines a cylinder of diameter (average distance to center of the
+> > plant) and about 5-6 ft long.  Assuming your plant is not too far away.
+> > Determine this surface area of this cylinder and the percentage of the
+> > area used by the plants at this distance.  This becomes the same % of
+> > the wattage of the original bulb.  Subtract about 10-20% from the
+> > wattage of the bulb due to inefficiency of conversion from electricity
+> > to light.   There will be some reflection from the back reflector on the
+> > light.  Assume this to add approximately 50% to 100% more light on the
+> > plant area.  Take into to account the multiple florescent tubes you have
+> > in close proximity.  The result is an estimate of the number of watts
+> > actually hitting the plant which can then be divided by the area of
+> > light the plant actually uses to get the watts/area.
+> >
+> > hope this helps.
+> >
+> > 
+
+
+
+
+
+
+ ------------------- 
+
+Look for red diode array and a gas discharge bulb centered on the blue spectrum.
+ ------------------- 
+subject: LEDs
+http://www.elexp.com/opt-led.htm
+
+ ------------------- 
+
+subject: LED Flashlights are coming
+Sent: 27 sep 98
+
+Keep you eyes open for LED Flashlights.  They should become more and more 
+commonly available as we approach the PS.  100,000 hr bulb life is more than 11 
+years running 24/day 7 days/week.  Battery life is greatly extended due to bulb 
+efficiency.  Some examples of what is currently available. 
+
+THREE "AA" ALKALINE WHITE LED FLASHLIGHT - The light lasts at a super bright 
+level for a continuous 48 hours
+http://ccrane.com/ledflash.htm
+
+Photon Micro-Light key chain flashlight - The BRIGHTEST for its size personal 
+flashlight!! Shines bright for 124 hours with one battery.
+http://www.photonlight.com/main.htm
+
+How to convert and existing flash light to work with a Red super bright Radio 
+Shack LED - Battery lasts 20 times or more longer - Cost $3.00
+http://athos.rutgers.edu/~watrous/ledlite.html
+
+comtrad industries has a eternalight pocket flashlight that lasts 700 hrs using 
+3 AA batteries.  Has various modes of operation. Cost is a bit high $59.95. call 
+800-704-1211.
+
+ ------------------- 
+Light energy is rather different from heat energy, though it is
+ given out by things that are very hot. Boiling water is 100°C, a
+ red-hot electric radiator is about 1000°C, a light bulb filament is
+ about 3500°C and the surface of the sun is about 6000°C. (Some
+ things however, such as the phosphors in fluorescent lights or in
+ the screens of television sets, give out light by electrical processes
+ at room temperature.) 
+http://www.science.org.au/nova/037/037box03.htm
+
+ ------------------- 
+
+Subject: Electric lighting
+sent: 29 Nov 97
+
+Found this while looking for something else:
+
+
+From: HOW THINGS WORK
+By: Louis A. Bloomfield, Professor of Physics, The University of Virginia
+http://www.phys.virginia.edu/Education/Teaching/HowThingsWork/home_nov_1996.html
+
+"Electric discharge lamps are between 2 and 5 times as energy efficient as 
+normal incandescent light bulbs. The hot filament of an incandescent lamp 
+delivers only about 10% of its electric power as visible light. In contrast, a 
+florescent lamp delivers about 25% of its electric power as visible light and 
+some gas discharge lamps (particularly low-pressure sodium vapor) deliver as 
+much as 50% of their electric powers as visible light."
+
+How much life is consumed each time you turn on a fluorescent lamp? -- BL, San 
+Jose, CA
+
+    "The starting process erodes the electrodes of a fluorescent tube through a 
+phenomenon called sputtering. A typical fluorescent tube will last about 50,000 
+hours if left on continuously but only 20,000 hours if it's turn on for just 3 
+hours at a time. From that tidbit, I think its fair to say that a fluorescent 
+tube can only start about 10,000 times. If the tube costs $5, you are spending 
+about 0.005 cents per start. If the electricity to operate that tube costs about 
+0.2 cents per hour, then turning the tube off for about 1.5 minutes saves the 
+same amount of money in electricity as it costs in tube life when you turn the 
+tube back on. In short, if you turn the lamp off for less than about 1 minute, 
+you're wasting money. But if you turn it off for more than 10 minutes, you're 
+saving money. In between, it's not so clear. There is a myth that turning on a 
+fluorescent lamp consumes a huge amount of electricity so that you shouldn't 
+turn the lamp off and on. There is simply no basis to that myth." 
+
+My comments on this - based on the data above if a fluorescent lamp is left on 
+for over 7 hr. each use, then should get maximum life.
+
+
+What are the different types of light bulbs and how do they work? - BS
+
+    "An incandescent light bulb works by heating a solid filament so hot that 
+the filament's thermal radiation spectrum includes large amounts of visible 
+light. A fluorescent tube uses an electric discharge in mercury vapor to produce 
+ultraviolet light, which is then transformed into visible light by fluorescent 
+phosphors on the inner surface of the tube. A gas discharge lamp uses an 
+electric discharge in a gas inside that lamp (often high pressure mercury, or 
+sodium vapor, or even neon) to produce visible light directly."
+
+What is the composition of the phosphors used in fluorescent light bulbs? - M
+
+   "The exact composition depends on the color type of the bulb, with the most 
+common color types being cool white, warm white, deluxe cool white, and deluxe 
+warm white. In each case, the phosphors are a mixture of crystals that may 
+include: calcium halophosphate, calcium silicate, strontium magnesium phosphate, 
+calcium strontium phosphate, and magnesium fluorogermanate. These crystals 
+contain impurities that allow them to fluoresce visible light. These impurities 
+include: antimony, manganese, tin, and lead. 
+
+Do regular fluorescent lights emit ultraviolet light? If so, how does the 
+ultraviolet level compare to what we would receive if we were outside? -- GF, 
+Barstow, CA
+
+    "While the electric discharge in the tube's mercury vapor emits large 
+amounts of short wavelength ultraviolet light, virtually all of this ultraviolet 
+light is absorbed by the tube's internal phosphor coating and glass envelope. As 
+a result, a fluorescent lamp emits relatively little ultraviolet light. I think 
+that the ultraviolet light level under fluorescent lighting is far less than 
+that of outdoor sunlight." 

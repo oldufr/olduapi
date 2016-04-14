@@ -1,0 +1,135 @@
+	TRI-JOINT XYZ MATRIX CONSTRUCTION
+
+From: bpaton@inforamp.net (Bill Paton)
+
+TRI-JOINT XYZ MATRIX CONSTRUCTION
+
+"Good Hardware is one of the few irrefutable proofs of clear
+thought."-Bucky Fuller.
+
+One morning when I was a kid I came downstairs and there was a new coffee
+table. I remember that morning clearer than any Christmas morning. My Dad
+had built this coffee table using a simple Tri-joint method of 2"x2"
+(actually 1 1/2"x1 1/2"s) pieces of wood and bolted them together with
+regular bolts. 
+
+He then added a regular sheet of 4x8' plywood which had
+squares cut out of the corners. Twenty years later that coffee table is
+still in my parent's living room. My Dad made this table, and a chair using
+this Tri-joint bolted system. He also developed a system for making beds,
+tables, couches, shelves and chairs using a combination of 2"x4"s  as the
+structure and 1"x4"s as the top material. My Mom sewed on covers for foam
+rubber pads which went on top of the chairs, couches and beds.  
+
+They feel that using either of these basic systems that ANYONE can build the basic furniture they NEED in life. They require few tools and little know how. I realize now that these systems may be artifacts from a philosophy of life that I also share.
+
+Having lived for more than a year in a Volkswagen van with my Father,
+Mother and two Brothers, I have realized that you don't need all the
+materialistic things we think of as essential.  I think this method is an
+example (and perhaps an inspiration) of this.
+
+I have devised many plans for various projects including: bunkbeds, a
+loftbed with couch, desk and dresser underneath, a bicycle cart, a
+worktable, a stereo stand, a computer table, scaffolding, a wheeled dolly
+and more. As a rather interesting experiment, I like to look at various
+pieces of furniture or structures and try to imagine building them with
+these methods. It makes for an interesting way of looking at things. I
+recommend trying this.
+
+
+
+
+.....X-JOINT
+..._________.........________
+../........./|....../......./|
+./........./.|...../......./.|
+/_________/..|..../......./..|
+|.........|..|.../......./...|
+|.........|..|../......./..../
+|.........|..|./......./..../
+|.........|..|/......./..../...Y-JOINT
+|.........|../......./..../
+|.........|./......./..../
+|.........|/_______/..../
+|.........|........|.../_________________
+|.........|........|../................./|
+|.........|........|./................./.|
+|.........|________|/_________________/..|..Z-JOINT
+|.........|...|.......................|..|
+|.........|...|.......................|../
+|.........|...|.......................|./
+|.........|...|_______________________|/
+|.........|...|
+|.........|...|
+|.........|...|
+|.........|.../
+|.........|../
+|.........|./
+|_________|/
+
+
+THE MATRIX PROCESS was devised by architect (Now Professor at the School of Architecture, University of Illinois at Chicago) invented the "Living
+Structure" which was based on a "three-dimensional structural network (or
+matrix) of wooden sticks or metal struts which support tables, seating,
+storage and beds systems systematically but flexibly integrated so the
+arrangement of the parts may be easily changed in dozens of ways to respond to changing needs, individual personality, or location.
+
+To guarantee the structural integrity of the 'Living Structure,' [he]
+developed a cartesian joint called the XYZ Connection which is strong in
+wood, metal, or even regional materials like bamboo. "
+
+In his book HOW TO BUILD YOUR OWN LIVING STRUCTURES (Crown Publishing,  NY,1974) Isaacs wrote about this system for Living Structures and also "Microhouses." Using Bucky Fuller's notions of ideas having a 25 year period before they come to pass, this system is now ripe to come forward.
+
+I recently bought a book called BOX BEAM SOURCEBOOK by Phil Jergenson (with Richard Jergenson) which shows similar methods for making various electric and solar cars as well as expanding on this system for PROTOTYPING. 
+
+The variation in their method is they use predrilled and precut pieces so they
+can modify them easily. Since they drill right through the wood (with a
+drill press) they only need to drill 2 time to make the four holes
+required. 
+
+Their basic system involves 1 1/2"x1 1/2" WOOD or ALUMINIUM (1/8" wall thickness 6061-T6--NOT 6063) with holes every 1 1/2" (starting at the
+3/4" mark). They always cut the material exactly BETWEEN the holes, having
+an even amount of holes per piece. This makes it easier for determining
+which piece to use. (Count the holes and multiply times 1 1/2" to determine
+length).
+
+For WOOD they use a 5/16" drill bit and a 1/4" bolt (3 1/2" long). With
+aluminium they use a 13/32" drill bit.
+
+They talk about building houses (and wind power generators) out of Steel
+TELESPAR Tubing (made by the Unistrut Corp:
+
+http://www.golden.net/~unistrut/telespar.html) Telespar is available in 24
+foot length and six sizes. They all have a 1" hole spacing, so only the 2"
+width is suitable for the Tri-joint method, although being able to
+telescope different thicknesses has its advantages. This is primarily
+written by Peter Ziegler whose company PACIFIC SYNERGY, INC.
+(http://www.ibiic.com/psi/psi01.htm) is still working along these lines and
+worth checking out.
+
+There is mention of the "ERECTOR SET" which was building toy using 1/2"
+wide metal girders that were bolted together to make square pieces. This
+toy was invented by A.C. Gilbert who has devotees online at:
+http://ro.com/~grobmyer/acghs.html
+
+The BOX BEAM SOURCEBOOK is full of helpful hints for "Box Beaming"   and details of parts suitable for car and bicycle manufacturing using their
+system. This book ($19.95 US) and their parts can be ordered from:
+SUNTOOLS  P.O. Box 1029  Willits CA  95490
+
+Other Useful Addresses:
+Peter R. Ziegler
+Pacific Synergy Inc.
+P.O. Box 11230
+Honolulu, HI 96828
+Tel/Fax: (808) 988-1123
+http://www.ibiic.com/psi01.htm
+email: peterz@ibiic.com
+
+UNISTRUT Kitchener
+100 Sheldon Drive, Unit 33
+Cambridge, ON
+N1R 7S7
+Tel: (519) 624-2502
+Fax: (519) 624-2503
+unistrut@golden.net
+

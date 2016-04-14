@@ -1,0 +1,10 @@
+
+
+The software that was used to lay out this printed circuit (.lay) board can be found at: 
+
+http://www.abacom-online.de/uk/html/sprint-layout.html 
+
+A link to download the free viewer: 
+
+http://www.abacom-online.de/uk/html/dateien/demos/viewlayout50.exe
+

@@ -1,0 +1,86 @@
+	ALKALINE RECHARGE
+
+
+ From : Greg Hoole        9:2500/0        Fri 25 Feb 94 20:46 
+ To   : Ted Thompson                                                            
+ Subj : Buddy-l Alkaline Recharge                                               
+
+
+The Eveready charger seems to only work with their own brand of "special"
+alkalines, read "expensive".. I saw some posts here where people have said
+that they have successfully recharged regular alkalines on them, but I
+haven't seen it done.
+
+Take a piece of tin foil and tightly wrap it around the positive end of
+your standard Alkaline Battery.  Then insert it into the charger and
+jiggle it until the red light, lights.  If you look at regular alkaline
+batteries they have a plastic insulator around the outer edge of the
+positive end.  The alkaline rechargables are metal and do not have the
+insulator.  
+
+The recharging unit has side contacts that contact the outer
+edge of the rechargable batteries therefore recharging them.  I have had
+very good success at recharging standard alkaline batteries but I did
+have one that ruptured and did inturn leak.  So becareful!
+                                Greg
+
+
+Said Greg Hoole to Ted Thompson on the Lord's Day 25 Feb 94  20:46
+ regarding Buddy-l Alkaline Recharge:
+
+I have had very good success at recharging standard alkaline batteries
+but I did have one that ruptured and did inturn leak.  So becareful!
+
+hmnn.. so the Eveready "microprocessor controlled charge" is just a buncha
+hokey that can be bypassed w/ tin foil?.. interesting..
+
+As far as the Buddy-L, I have had good results from it, depending on the
+condition of the battery being charged.. ie: it will charge a lightly
+discharged battery to better than factory voltage (as much as 1.56v), but
+if you recharge one that's nearly dead, it will bring it to 1.36v to 1.48v,
+not quite factory voltage, but still better than Nicads or dry-cells...
+
+I am sure that the micro-processor does what it says.  Its the batteries that
+are a scam, its all in the design of the posative end of the battery.  I will
+see if I can draw it here.
+
+NORMAL BATTERY
+
+            ___/----\___           l            l  <--plastic insulator
+l            l     wraps up and around to
+                              the top of the battery
+
+
+Rayovac Rechargable Batter
+
+           ___/----\___          l            l   The Rayovac has no plastic
+insulator          l            l   around the top of the battery.  there fore
+using the sides of the battery for the posotive connection of the charging
+system.
+
+All the Rayovac Batteries that I recharge give off the same smell (gas) when
+being recharged as do the normal alkalines do that I recharge using the quote foil method.
+                                Greg
+
+Ted,
+    I concur.  Actually, any battery can be recharged.  The trick is to
+do it slowly.  Most types of batteries will heat up and be permanently
+damaged if recharged too slowly.  The active chemicals in batteries must
+be in a liquid, or semi-liquid state.  If a battery is allowed to dry
+out it will not function.  Too high a rate of charge will also cause gas
+to form at the center element (electrode) and increase the resistance in
+the battery preventing it from charging until the gas dissipates.  
+
+This can be readily be seen in an automotive battery.  Gas can form so
+rapidly that the bubbles can be seen in the electrolyte and forming on
+the plates.  When this happens water must be added to keep the battery
+serviceable.
+
+    The problem is how can you replace the water in a carbon-zinc or
+alkaline battery.  Also, what is the service life of a recharged
+battery?  In the case of a carbon-zinc battery the discharge rate of a
+nearly dead battery is greater than the maximum charge rate.  The
+battery will literally go dead while it is being recharged.
+
+In a survival situation it may be worth the effort to try this.
+Any battery is better than none at all. Jerry

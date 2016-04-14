@@ -1,0 +1,76 @@
+>
+> Dear Ken:
+>      That is very kind of you.  I would really appreciate the info.
+>                       Thanks: Bill
+I hope those three discussion strings I sent you in those three e-mails
+help you decide what type of gen set to get.
+
+Here are some more hints: cheapo ($500) one cylinder gasoline generators
+can run about 100 hours before they need a tune-up or rebuild.  These
+always run at 3,600 RPM are noisy and chug themselves to death.  Serious
+generators run at 1,600 RPM are usually multiple cylinders and run on
+diesel, propane, or natural gas and will run for 1,000s of hours before
+rebuilding.
+
+Gasoline is dangerous, toxic, and explosive.  It doesn't store all that
+well, you'ld need to store it in a cool place with stabilizers.  It has
+been said that you can re-add the stabilizer every year or two to keep
+the gas from breaking down.
+
+Diesel is not flamable. If you have a bowl of diesel fuel you can
+extinguish a match in it.  It still needs stabilizers but can last
+longer.  It also needs to be kept water free and have anti-fungals put into it.  
+It is said that you can run most diesels on kerosene in a
+pinch, long term effects? - I can't guess.
+
+Best storage fuel is propane, will last forever, starts engines easily
+in winter, safe, cheap. etc.
+
+Natural gas - wonderful IF the pipeline keeps working.........   :(
+
+ There are multiple fuel engines that can run on nat.gas, propane, and
+gasoline.  You have to swap out the carburators of course.
+
+Please note that reliable generators aren't cheap.  My best friend just
+bought a 15kW propane Winco set (like my brother in-law's) for around
+$6,500, beautiful unit comes complete with auto start, transfer switch,
+maintance run, etc.  It is 4 cylinder and runs at 3,600 RPM in a highly
+sound dampened cabinet (weighs 1,000#) and we mounted it on a trailer.
+
+I don't know what your financial resources are, or if you live rural,
+are going to relocate, are going to bug-out to a friend's place, own a
+retreat location or whatever, or even what part of the country you live
+in. Hint: solar and certain parts of Oregon = no-way.
+
+  If you are straped for cash, here is a poor man's system, one
+automobile + stored gasoline + plus big (or small) bank of slow
+discharge type batteries + lots of heavy cables + a good inverter = run
+car to charge battery bank about 15 minutes each day at idle.  Might
+want to alter the pulley size on the car's alternator/generator to get
+full output while idling the engine,being darn careful not to rev the engine 
+and overspeed the generator!  Check with the alternator manufacturer for what 
+speed is needed for full output. If you vehicle has a generator rather than a 
+rectified alternator, you most definately need higher shaft speed, this is why 
+car marker changed to alternators since generators don't put out much at lower 
+speed.
+
+You can do this at different levels.  You can get cheapo inverters for
+$40 and could run it right off the car battery for emergency lighting or
+radios, not the best but for $40....  If you plan to run refrigerators
+or sump pumps you need to go heavier duty.
+
+Additional notes:
+On the poorman's.  An automobile should be run once every week preferably or at 
+minimum once per month.  Otherwise many of the engine bearing seals will fail 
+and you'll have an expensive oil sieve.  When running an engine, it might take 
+just a short time to flex and lubricate the seals, but running the engine for 
+just a short time is bad for it due to condensation of combustion by-products.  
+This is why short trips are harder on a car than long trips.  You should get 
+the engine up to operating temerature every time you turn it on.  Therefore, if 
+you have three cars at your survival retreat, running one each week to charge 
+batteries will keep you in power and maintain the engines.  If you place 
+cardboard in front of the radiator or remove the fan to bring up engine 
+temperature faster you'll have to monitor the engine temperature manually, not 
+recommended with a car that does not have a temperature guage.  I would think 
+that most cars would heat up in 15 minutes of running.  All precautions to 
+muffle sound apply.

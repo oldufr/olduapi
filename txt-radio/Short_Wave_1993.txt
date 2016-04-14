@@ -1,0 +1,68 @@
+Date: 03 Mar 93 19:57:00 UTC
+
+From: wb6oco
+
+Subject: Shortwave
+
+Well, let's see if I can list a few shortwave frequencies here.  You won't
+find any major startling news on these, but sometimes you find things
+discussed (like the New World Order, for example) which are discussed in a
+manner that indicates everyone else in the world knows all about it, but our
+media is not telling us about it.
+
+BBC = British Broadcasting Corporation
+VOA = Voice of America
+ DW = Deutsche Welle (Cologne, Germany)
+CSM = Christian Science Monitor (EXCELLENT news reporting)
+RKI = Radio Kol Israel
+ RA = Radio Australia
+SRI = Swiss Radio International
+ RS = Radio Sweden
+ RB = Radio Baghdad
+ RH = Radio Havana (Cuba - Castro's propaganda station)
+RDI = Radio Dublin International
+ RN = Radio Netherlands  
+
+  BBC   VOA    DW   CSM   RKI    RA   SRI    RS     RB
+
+ 5975  6035  3995  9455  7465  7140  6135  9695  11740
+ 6005  7265  6045  9870  9435  9560 13635 11705  11755
+ 6110  7280  6085 13760 11605 11910 13685 11960  11827
+ 6175  7405  7225 15665 15100 13605 21500 17740  13660
+ 9600  9455  7235 17555
+ 9915  9575  7390
+11820  9635  9055          RH    RN   RDI   RNI
+12095  9700  9058
+15070 11760  9610        9655  6020  6910  9650
+15360 15580 11725       11950  9590
+15400 17785             13700
+      17800             17705
+
+All of these stations broadcast at varying times of the day and direct their
+transmission to particular areas of the world.  Sometimes you'll hear the
+same station and the same program on more than one frequency; sometimes
+you'll hear the same station and different programming on different
+frequencies.  Sometimes you'll tune in a station that's 'supposed' to be one
+thing and you'll find some other station on it; they swap around a lot
+according to who's on the air at a given time and who isn't -- and often they
+don't care whether they trample another station or not.  Also, propagation
+factors mean that the above 10mHz frequencies are more easily heard in the
+daytime, and the below 10mHz frequencies are more easily heard evenings.  The
+below 9mHz frequencies are more easily heard in the early morning hours
+(0300+ local).
+
+Also, of course, you can pick up accurate time signals from WWV at Fort
+Collins, Colorado, and WWVH in Honolulu, on 2.5, 5, 10, 15, and 20mHz.  Canada
+also has time signals, but I don't remember the frequencies.
+
+One note:  You will find ALL the foreign-based stations far to the left
+politically.
+
+Good luck, and have fun!  Hope you hear a couple of clandestine stations
+transmitting code groups just to keep your blood flowing -- or some of the
+occasional 6.6mHz stuff in rapid-fire Spanish with machine gun fire in the
+background.
+
+73's.  Don, WB6OCO.
+
+

@@ -1,0 +1,149 @@
+Subject: Lightning
+Date: 30 Jun 99
+
+Ron, I also found some interesting data under a different spelling of the word.  
+In fact I found the opposite or earth to be positive and the sky to be negative 
+see NASA's drawing in their on-line primer see bottom of page at: 
+http://thunder.msfc.nasa.gov/primer/primer2.html
+
+However, most of the electromagnetic energy from lightning is in the very lowest 
+part of the radio spectrum, from 0.1 to 10 kHz. The peak of the spectrum 
+generally seems to be between 1 and 10 KHz. 
+
+Above 10KHz, the energy spectrum tails off, but has the nature of random noise - 
+there are random peaks occurring with short durations.
+
+Note: The following link shows a + and - of about 80 k Amp current at the bottom 
+of the page.  See
+http://128.252.223.112/posts/archives/nov98/912136278.Ph.r.html
+
+http://roselott.gsfc.nasa.gov/people/valdivia/thesis/node2.html#SECTION011100000
+00000000000
+
+NASA has an interesting link that show the ground a positive and the clouds as 
+negative. See Figure 1.2: A cloud-to-ground lightning discharge. It starts with 
+the stepped leader propagating down. Before the stepped discharge reaches the 
+ground, a second discharge of the opposite charge starts from the ground. The 
+two discharges meet shorting the circuit and a return stroke is formed which 
+propagates upward lowering the charge. This picture is taken from Uman 1987.
+
+Note also the duration times listed.
+
+This next link has some general technical information. 
+http://thunder.msfc.nasa.gov/primer/primer3.html
+
+During fair weather, a potential difference of 200,000 to 500,000 Volts exists 
+between the Earth's surface and the ionosphere, with a fair weather current of 
+about 2x10-12 amperes/meter2. It is widely believed that this potential 
+difference is due to the world-wide distribution of thunderstorms. 
+
+Present measurements indicate that an average of almost 1 ampere of current 
+flows into the stratosphere during the active phase of a typical thunderstorm. 
+Therefore, to maintain the fair weather global electric current flowing to the 
+surface, one to two thousand thunderstorms must be active at any given time. 
+While present theory suggests that thunderstorms are responsible for the 
+ionospheric potential and atmospheric current for fair weather, the details are 
+not fully understood.
+
+Typically, more than 2,000 thunderstorms are active throughout the world at a 
+given moment, producing on the order of 100 flashes per second.
+http://thunder.msfc.nasa.gov/primer/primer4.html
+
+Other interesting links:
+
+"Science Myths"
+http://www.eskimo.com/~billb/miscon/miscon.html
+
+This type of item may be useful for our radio equipment.
+Gas Discharge Lightning/Surge Protector (BNC) ($19)
+http://www.grove-ent.com/LAR1B.html
+
+ ------------------- 
+Subject: Lightning surge battery charger idea to test
+Sent: 27 Jun 99
+
+Ron Darby wrote:
+> 
+> This setup
+> will almost always produce a static electrical charge, but under normal
+> conditions the current available from this static charge is miniscule
+> (mainly because of leakage within the capacitor).   It's only when
+> thunderstorms are present ... even tens of miles away ... that the static
+> charge becomes great enough to "leak" through the air and produce useable
+> current from the capacitor.
+
+Based on Darrell Olson's idea about bridge rectifier, and capacitor filter - I 
+couldn't stop thinking about how one might design a circuit to capture static 
+electrical surges that occur during lighting storms.  Ron I agree with your 
+analysis as described above.  Been thinking how to take some of the danger of 
+component destruction and personal risk out of it and still harvest the surges 
+to charge batteries.  Still only those who fully understand and respect the 
+dangers involved should do this testing. 
+
+If one has a lot of lightning going on, one might try the following circuit. 
+http://home1.gte.net/ob/LIGHTNING.gif It would work best if one has lots of 
+windmills or high posts.  At the top of each, one would put up a lighting rod 
+with a wire down to a spark gap and a good ground connection.  Each lightning 
+antenna would be wired to making the shortest path to ground through the spark 
+gap for each high point or post.  Extremely heavy gauge wire would be used for 
+this.  
+
+The spark gap would be kept out of the rain and should be adjusted to about 1/8 
+inch or closer.  The gap could be as simple as a heavy gauge wire wound around 
+each end of a glass insulator.  Wire ends then bent to make the proper spaced 
+gap.  The gap could be made more formally out of a half inch (or bigger) cadmium 
+plated steel or brass bolt threaded through an angle iron bolted to plastic. The 
+other side of the gap is a mirror image or use an angle bracket only.  
+
+A smaller wire say 16 to 12 gauge would then be run between the lightning rods 
+and the surge limiting inductor near the battery charger as shown.  The battery 
+charging area probably should not be located inside the survival quarters or 
+near living creatures of any kind. 
+
+The fuse is used in case the DC surge flow gets too high to avoid damaging the 
+rectifier in a heavy duty lightning storm.  I recommend making your own fuse.  
+Put a couple of terminals in a block of wood or plastic about 6 inches or more 
+apart.  The large distance is to attempt to limit the high voltage surges that 
+would try to jump this gap after the fuse blows and the storm is not done yet.  
+Choose a small wire that will burn out at about half the amperage of the diodes 
+and run this wire between the two terminals. To get this wire you can slice open 
+a multi-strand wire and separate out the strands. Test one with an amp meter, 
+variable resistor and a battery to see what amperage it burns out at.  Use as 
+many strands as needed to get the current you need.  Warning don't try to change 
+this fuse in the middle of a lightning storm.  
+
+Always short out the spark gap to ground, that is near the fuse, when working on 
+this circuit.  This spark gap should be adjusted slightly wider than any of the 
+others.  This is to encourage the flow directly to ground near the lightning 
+rod. 
+
+For the inductor use one winding on an old transformer (from a TV as an example) 
+or wind your own. This is used to limit rapid surges of current to the rectifier 
+diodes.  The gas discharge tube (neon or florescent) and 2nd inductor is 
+optional protection and visual indication of the presence of high voltage.  Find 
+a high current and high peak inverse voltage diodes or bridge rectifier that you 
+have available. 
+
+The capacitor is really a bit optional and is used to help level out the surges.  
+It should not be leaky and drain the battery while waiting for the next 
+lightning storm.  Otherwise it should be as big as you can find. You can make 
+one from a plastic (tarp or bag material) between tin foil rolled up. You may 
+want to measure the current drain on this circuit from time to time to check 
+whether the diodes or capacitor has been damaged.  If this happens your 
+batteries could drain down and go dead while waiting for the next storm.
+
+If this approach works for you, battery charging voltage will not a problem. 
+It's average current that will be low.  For charging more than one battery, hook 
+them in series.  Just don't exceed the voltage of the diodes or the discharge 
+lamp. 
+
+This circuit has not yet been tested. If anyone tests it before the PS let the 
+rest us know if it produces enough charging current to be worth building.  The 
+problem being lightning storms are very short term and sporadic.   Just remember 
+lighting is a spectator sport don't go working on this circuit in the presence 
+of a storm. 
+
+
+ ------------------- 
+
+ 
